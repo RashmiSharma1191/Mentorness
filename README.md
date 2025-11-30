@@ -12,11 +12,15 @@ booking trends, and other key factors impacting hotel operations.
 questions that help improve decision-making and enhance guest experiences. This analysis
 helps understand trends and patterns crucial for optimizing hotel management and services.
 
+![SQL query](https://github.com/RashmiSharma1191/Mentorness/blob/main/MENTORNESS%20SQL%20internship%20project.sql)
+
 ## 3. Songs Analysis with Power BI-
 - TASK: Analyze YouTube song data using Power BI to uncover performance, engagement, and trends insights.
 - OBJECTIVE: Create interactive dashboards and reports to visualize the data, along with
 recommendations for content optimization. This hands-on experience in data analysis aids
 in forming effective YouTube content strategies.
+
+![Dashboard](https://github.com/RashmiSharma1191/Mentorness/blob/main/Mentorness%20Youtube%20Dashboard.png)
 
 This internship project with Mentorness provided a robust experience in data analysis, 
 from creating engaging educational content to performing in-depth analyses of real-world 
